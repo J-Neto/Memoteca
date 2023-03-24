@@ -2,9 +2,9 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Com grandes poderes vem grandes responsabilidades",
-      "autoria": "Ben Parker",
-      "modelo": "modelo1"
+      "conteudo": "Com grandes poderes... vem grandes responsabilidades",
+      "autoria": "Benjamin Parker",
+      "modelo": "modelo2"
     },
     {
       "id": 2,
@@ -23,18 +23,6 @@
       "conteudo": "Não é a morte que um homem deve temer, mas nunca ter começado a viver.",
       "autoria": "Marco Aurélio",
       "modelo": "modelo2"
-    },
-    {
-      "conteudo": "Hello World",
-      "autoria": "Dev Angular",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "Teste",
-      "autoria": "teste",
-      "modelo": "modelo1",
-      "id": 6
     }
   ]
 }
